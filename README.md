@@ -5,11 +5,11 @@
 </h3>
 
 <p align="center">
-Data Science Graduate | AI Enthusiast | Cloud & AI Explorer | DevOps 
+Data Science Graduate | AI Enthusiast | Cloud & DevOps Explorer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Graduate;Machine+Learning+Enthusiast;AI+%26+Cloud+Explorer;Python+Developer;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Graduate;Machine+Learning+Enthusiast;Generative+AI+Explorer;Cloud+%26+AI+Engineer;Open+to+Opportunities" />
 </p>
 
 ## 👨‍💻 About Me
@@ -24,7 +24,7 @@ Data Science Graduate | AI Enthusiast | Cloud & AI Explorer | DevOps
 
 💡 Interested in AI Engineering, Data Science, Machine Learning, and Cloud-Based Solutions
 
-📫 Reach me at: adithiraskonda@gmail.com
+📫 Email: adithiraskonda@gmail.com
 
 ⚡ Fun Fact: I enjoy transforming complex data into meaningful insights and real-world solutions.
 
@@ -38,12 +38,19 @@ Data Science Graduate | AI Enthusiast | Cloud & AI Explorer | DevOps
 
 ### 📊 Data Science & AI
 
+**Specializing in Machine Learning, NLP, Generative AI, Predictive Analytics, and Cloud-Native Solutions.**
 - Machine Learning
 - Deep Learning
+- XGBoost
+- Natural Language Processing (NLP)
 - Pandas
 - NumPy
 - Scikit-Learn
 - Data Visualization
+- Power BI
+- Tableau
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
 - Generative AI
 - Large Language Models (LLMs)
 
@@ -158,4 +165,8 @@ Data Science Graduate | AI Enthusiast | Cloud & AI Explorer | DevOps
 <a href="https://github.com/adithi741" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adithi741&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
