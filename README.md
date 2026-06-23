@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithi</h1>
 
 <h3 align="center">
-🚀 Building Intelligent Solutions with Data, AI & Cloud ✨
+🚀 Transforming Data into Intelligent Solutions with AI, Cloud & Innovation ✨
 </h3>
 
 <p align="center">
@@ -10,6 +10,12 @@ Data Science Graduate | AI Enthusiast | Cloud & DevOps Explorer
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Graduate;Machine+Learning+Enthusiast;Generative+AI+Explorer;Cloud+%26+AI+Engineer;Open+to+Opportunities" />
+</p>
+
+<p align="center">
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" />
+</a>
 </p>
 
 ## 👨‍💻 About Me
@@ -27,6 +33,10 @@ Data Science Graduate | AI Enthusiast | Cloud & DevOps Explorer
 📫 Email: adithiraskonda@gmail.com
 
 ⚡ Fun Fact: I enjoy transforming complex data into meaningful insights and real-world solutions.
+
+## 💭 Favorite Quote
+
+> "Turning data into decisions and ideas into intelligent solutions."
 
 ## 🛠️ Tech Stack
 
@@ -127,6 +137,15 @@ Data Science Graduate | AI Enthusiast | Cloud & DevOps Explorer
 * Business Intelligence & Analytics using Power BI (2023)
 * Deloitte Data Analytics Virtual Experience Program (2025)
 
+## 📈 Quick Highlights
+
+- 🎓 Data Science Graduate
+- 🏆 10+ Certifications
+- ☁️ AWS Cloud Enthusiast
+- 🤖 AI & Machine Learning Practitioner
+- 🐍 Python Developer
+- 🚀 Open to Opportunities
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -135,6 +154,12 @@ Data Science Graduate | AI Enthusiast | Cloud & DevOps Explorer
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithi741&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adithi741&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
 
 ## 💻 Most Used Languages
