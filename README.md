@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithi</h1>
 
 <h3 align="center">
-🚀 Building Intelligent Solutions with Data, AI & Cloud
+🚀 Building Intelligent Solutions with Data, AI & Cloud ✨
 </h3>
 
 <p align="center">
