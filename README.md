@@ -9,7 +9,7 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Graduate;Machine+Learning+Enthusiast;AI+%26+Cloud+Explorer;Python+Developer;Open+to+Data+Science+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Graduate;Machine+Learning+Enthusiast;AI+%26+Cloud+Explorer;Python+Developer;Open+to+Opportunities" />
 </p>
 
 ## 👨‍💻 About Me
@@ -46,3 +46,52 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
 - Data Visualization
 - Generative AI
 - Large Language Models (LLMs)
+
+## 🚀 Featured Projects
+
+### 🥇 Bank Customer Churn Prediction
+📌 Built a machine learning model using XGBoost to predict customer churn through data preprocessing, feature engineering, and exploratory data analysis.
+
+**Tech Stack:** Python, Pandas, XGBoost, Scikit-Learn
+
+---
+
+### 🥈 Fake Product Review Detection
+📌 Developed an NLP-based system to identify fake product reviews using text preprocessing, feature extraction, and classification techniques.
+
+**Tech Stack:** Python, NLP, Pandas, Scikit-Learn
+
+---
+
+### 🥉 SentinelNet – AI-Powered Intrusion Detection System
+📌 Designed an intelligent network intrusion detection system leveraging machine learning techniques for threat detection and cybersecurity analytics.
+
+**Tech Stack:** Python, Machine Learning, Streamlit, Data Analytics
+
+---
+
+### 🔧 Predictive Maintenance System
+📌 Built a predictive analytics solution to estimate equipment failures and remaining useful life using deep learning and time-series analysis.
+
+**Tech Stack:** Python, TensorFlow, LSTM, Pandas
+
+---
+
+### 🌍 Geo-Spatial Analysis using A* Algorithm
+📌 Implemented an intelligent route-planning system using the A* algorithm to calculate optimal paths for geospatial navigation.
+
+**Tech Stack:** Python, A* Algorithm, Data Structures
+
+---
+
+### ☁️ AWS 3-Tier Architecture
+📌 Architected a scalable cloud infrastructure using AWS services including VPC, EC2, RDS, Load Balancer, Auto Scaling, and Monitoring.
+
+**Tech Stack:** AWS, EC2, RDS, CloudWatch, DynamoDB
+
+---
+
+### ⚙️ Shine GitOps Project
+📌 Implemented CI/CD and GitOps workflows with containerization, Kubernetes orchestration, automated deployments, and monitoring.
+
+**Tech Stack:** Docker, Kubernetes, GitHub Actions, Jenkins, AWS
