@@ -49,7 +49,7 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
 
 ## 🚀 Featured Projects
 
-### 🥇 Bank Customer Churn Prediction
+### 🥇 [Bank Customer Churn Prediction] (https://github.com/adithi741/Bank-Customer-Churn-Prediction)
 📌 Built a machine learning model using XGBoost to predict customer churn through data preprocessing, feature engineering, and exploratory data analysis.
 
 **Tech Stack:** Python, Pandas, XGBoost, Scikit-Learn
@@ -95,3 +95,59 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
 📌 Implemented CI/CD and GitOps workflows with containerization, Kubernetes orchestration, automated deployments, and monitoring.
 
 **Tech Stack:** Docker, Kubernetes, GitHub Actions, Jenkins, AWS
+
+## 🏆 Certifications
+
+### 🤖 AI & Data Science
+
+* Data Analytics with Python — NPTEL (2024)
+* Microsoft Azure Artificial Intelligence Fundamentals (AI-900) — Microsoft (2023)
+* Data Science, Artificial Intelligence & Machine Learning — Edyst (2023)
+* Python: Introduction to Data Science & Machine Learning A-Z — Udemy (2023)
+
+### 🐍 Programming & Databases
+
+* Python Programming — OpenEDG Python Institute (2024)
+* SQL (Advanced) — HackerRank (2025)
+
+### ☁️ Cloud & Infrastructure
+
+* AWS Cloud Practitioner Essentials — AWS (2026)
+* CCNA Enterprise Networking, Security and Automation — Cisco (2024)
+
+### 📊 Analytics & Industry Experience
+
+* Business Intelligence & Analytics using Power BI (2023)
+* Deloitte Data Analytics Virtual Experience Program (2025)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithi741&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithi741&theme=tokyonight" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithi741&layout=compact&theme=tokyonight" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="[https://www.linkedin.com/in/adithi-raskonda">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:adithiraskonda@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adithi741&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
