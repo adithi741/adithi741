@@ -24,6 +24,25 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
 
 💡 Interested in AI Engineering, Data Science, Machine Learning, and Cloud-Based Solutions
 
-📫 Reach me at: adithiraskodna@gmail.com
+📫 Reach me at: adithiraskonda@gmail.com
 
 ⚡ Fun Fact: I enjoy transforming complex data into meaningful insights and real-world solutions.
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,aws,docker,kubernetes,git,github,vscode,linux" />
+
+</p>
+
+### 📊 Data Science & AI
+
+- Machine Learning
+- Deep Learning
+- Pandas
+- NumPy
+- Scikit-Learn
+- Data Visualization
+- Generative AI
+- Large Language Models (LLMs)
