@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Data Science Graduate | AI Enthusiast | Cloud Learner
+Data Science Graduate | AI Enthusiast | Cloud & AI Explorer | DevOps 
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,aws,docker,kubernetes,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,aws,docker,kubernetes,git,github,vscode,linux,anaconda" />
 
 </p>
 
@@ -49,7 +49,7 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
 
 ## 🚀 Featured Projects
 
-### 🥇 [Bank Customer Churn Prediction] (https://github.com/adithi741/Bank-Customer-Churn-Prediction)
+### 🥇 [Bank Customer Churn Prediction](https://github.com/adithi741/Bank-Customer-Churn-Prediction)
 📌 Built a machine learning model using XGBoost to predict customer churn through data preprocessing, feature engineering, and exploratory data analysis.
 
 **Tech Stack:** Python, Pandas, XGBoost, Scikit-Learn
@@ -136,18 +136,26 @@ Data Science Graduate | AI Enthusiast | Cloud Learner
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithi741&layout=compact&theme=tokyonight" />
 </p>
 
+## 🎯 Current Focus
+
+- 🤖 Generative AI & LLM Applications
+- 📊 Machine Learning & Predictive Analytics
+- ☁️ Cloud-Based AI Solutions
+- 🐍 Advanced Python Development
+- 🚀 Building End-to-End Data Science Projects
+
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="[https://www.linkedin.com/in/adithi-raskonda">
+<p align="center">
+<a href="https://www.linkedin.com/in/adithi-raskonda/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:adithiraskonda@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adithi741&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://github.com/adithi741" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
