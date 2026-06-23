@@ -13,8 +13,8 @@ Data Science Graduate | AI Enthusiast | Cloud & DevOps Explorer
 </p>
 
 <p align="center">
-<a href="https://github.com/adithi741/adithi741/blob/main/Adithi_Raskonda_Resume.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" />
+<a href="https://github.com/adithi741/adithi741/blob/main/AdithiRaskonda_Resume.pdf" target="_blank">
+<img src="https://img.shields.io/badge/📄%20Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
 </p>
 
