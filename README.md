@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adithi</h1>
+<h1 align="center">Hi 👋, I'm Raskonda Adithi</h1>
 
 <h3 align="center">
 🚀 Transforming Data into Intelligent Solutions with AI, Cloud & Innovation ✨
